@@ -21,7 +21,7 @@ function Introduction(){
                     Child Full Name:
                     <input type="text" />
 
-                    Age Of Athlete:
+                    Date Of Birth:
             <DatePicker placeholderText="mm/dd/yyyy" selected={selectedDate} onChange={date => setSelectedDate(date)}  
             isClearable 
             showYearDropdown 
