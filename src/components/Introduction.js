@@ -16,7 +16,7 @@ function Introduction(){
 
             <form action="" >
                 <label>
-                    Parent/Gaurdian Full Name:
+                    Parent/Guardian Full Name:
                     <input type="text" Parent full Name ={parentFullName} />
                     Child Full Name:
                     <input type="text" />
